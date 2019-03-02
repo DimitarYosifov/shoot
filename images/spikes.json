@@ -1,0 +1,37 @@
+{
+    "frames": {
+        "spikes_1.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 30,
+                "h": 90
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "sourceSize": {
+                "w": 0,
+                "h": 0
+            }
+        }
+    },
+
+    "meta": {
+        "app": "http://www.texturepacker.com",
+        "version": "1.0",
+        "image": "spikes.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 30,
+            "h": 90
+        },
+        "scale": "1",
+        "smartupdate": "$TexturePacker:SmartUpdate:d78102d36aaabb2f7ba8db2abe4aad9f$"
+    }
+}

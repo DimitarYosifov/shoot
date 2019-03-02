@@ -1,0 +1,117 @@
+{
+    "frames": {
+        "heroProjectile_1.png": {
+            "frame": {
+                "x": 7,
+                "y": 28,
+                "w": 93,
+                "h": 36
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "sourceSize": {
+                "w": 0,
+                "h": 0
+            }
+        },
+        "heroProjectile_2.png": {
+            "frame": {
+                "x": 114,
+                "y": 32,
+                "w": 110,
+                "h": 40
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": -10,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "sourceSize": {
+                "w": 0,
+                "h": 0
+            }
+        },
+        "heroProjectile_3.png": {
+            "frame": {
+                "x": 12,
+                "y": 97 ,
+                "w": 100,
+                "h": 40
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": -5,
+                "y": -2,
+                "w": 0,
+                "h": 0
+            },
+            "sourceSize": {
+                "w": 0,
+                "h": 0
+            }
+        },
+        "heroProjectile_4.png": {
+            "frame": {
+                "x": 112,
+                "y": 103 ,
+                "w": 100,
+                "h": 33
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": -6,
+                "y": 2,
+                "w": 0,
+                "h": 0
+            },
+            "sourceSize": {
+                "w": 0,
+                "h": 0
+            }
+        },
+         "heroProjectile_5.png": {
+            "frame": {
+                "x": 60,
+                "y": 173 ,
+                "w": 110,
+                "h": 34
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": -14,
+                "y": 2,
+                "w": 0,
+                "h": 0
+            },
+            "sourceSize": {
+                "w": 0,
+                "h": 0
+            }
+        }
+    },
+
+    "meta": {
+        "app": "http://www.texturepacker.com",
+        "version": "1.0",
+        "image": "projectile1.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 225,
+            "h": 225
+        },
+        "scale": "1",
+        "smartupdate": "$TexturePacker:SmartUpdate:d78102d36aaabb2f7ba8db2abe4aad9f$"
+    }
+}
